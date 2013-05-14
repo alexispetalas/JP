@@ -5,3 +5,6 @@ C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\AIMLSpringBot\bin\Debug\Commo
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\AIMLSpringBot\bin\Debug\Spring.Aop.dll
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\AIMLSpringBot\obj\Debug\AIMLSpringBot.exe
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\AIMLSpringBot\obj\Debug\AIMLSpringBot.pdb
+C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\bin\Debug\AIMLSpringBot.exe.config
+C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.exe
+C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.pdb
