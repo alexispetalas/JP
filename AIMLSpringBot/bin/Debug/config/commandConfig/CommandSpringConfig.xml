@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net">
+
+  <!-- INYECCION DE DEPENDENCIAS CON SPRING -->
+
+  <description>
+    Configuracion de Servicios
+  </description>
+
+  <object id="CommandDiagnostico"
+     type="AIMLSpringBot.Commands.Especific.CommandDiagnostico, AIMLSpringBot">
+  </object>
+
+</objects>
+
