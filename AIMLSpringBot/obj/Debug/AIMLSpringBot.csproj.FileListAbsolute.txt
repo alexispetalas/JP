@@ -8,3 +8,11 @@ C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\AIMLSpringBot\obj\Debug\AIMLS
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\bin\Debug\AIMLSpringBot.exe.config
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.exe
 C:\Environment\NET\BOT\AIMLSpringBot\AIMLSpringBot\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.pdb
+C:\JP\AIMLSpringBot\bin\Debug\AIMLSpringBot.exe.config
+C:\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.exe
+C:\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.pdb
+C:\JP\AIMLSpringBot\bin\Debug\AIMLSpringBot.exe
+C:\JP\AIMLSpringBot\bin\Debug\AIMLSpringBot.pdb
+C:\JP\AIMLSpringBot\bin\Debug\Common.Logging.dll
+C:\JP\AIMLSpringBot\bin\Debug\Spring.Aop.dll
+C:\JP\AIMLSpringBot\obj\Debug\AIMLSpringBot.csprojResolveAssemblyReference.cache
